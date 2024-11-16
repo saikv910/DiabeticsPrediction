@@ -1,0 +1,2 @@
+# DiabeticsPrediction
+Using KNN Model
